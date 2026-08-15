@@ -1,0 +1,2 @@
+# ayi-yasmin
+Portfolionya Ai
