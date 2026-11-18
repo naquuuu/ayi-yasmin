@@ -1,0 +1,3 @@
+# Generated, allowlisted static deployment snapshot.
+.publish/
+.publish-stage-*/
